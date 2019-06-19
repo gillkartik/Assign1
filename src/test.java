@@ -43,5 +43,5 @@ public class test {
     p1.outcome();
 
     }
-    
+ System.out.println();   
 }
